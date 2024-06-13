@@ -1,4 +1,4 @@
-# HTMl Transformation with Edge Functions
+# HTML Transformation with Edge Functions
 
 https://edgio-community-examples-v7-ef-htmltransform-live.edgio.link/
 
